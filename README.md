@@ -27,9 +27,9 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about anything, i love to learn from people's experiences
 
-- 👨‍💻 Life Hack: Love to Read in general 📖
+- 👨‍💻 Life Hack: Learn to enjoy what you are doing 
 
-- ⚡ Fun fact: I enjoy diving 🤿
+- ⚡ Fun fact: I enjoy diving 🤿 and reading 📖
 
 ## 🛠️ Technologies and Tools I use:
 
