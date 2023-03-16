@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://le-jared.github.io/Responsive-Portfolio/)**
+- 🙋‍♂️ My first project: **[My Website](https://le-jared.github.io/Responsive-Portfolio/)**
 
 - 🔭 I’m currently working on `Upskilling Myself`.
 
