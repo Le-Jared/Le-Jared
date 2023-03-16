@@ -15,21 +15,21 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://le-jared.github.io/Responsive-Portfolio/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Upskilling Myself`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I’m looking for help with `Getting a job` 😅
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, i love to learn from people's experiences
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Love to Read in general 📖
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I enjoy diving 🤿
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -43,7 +43,6 @@ Here are some ideas to get you started: -->
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
@@ -51,7 +50,6 @@ Here are some ideas to get you started: -->
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
