@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 
 - 🤔 I’m looking for help with `Getting a job` 😅
 
-- 💬 Ask me about anything, i love to learn from people's experiences
+- 💬 Ask me about anything, I love to learn from people's experiences
 
 - 👨‍💻 Life Hack: Learn to enjoy what you are doing 
 
