@@ -61,5 +61,5 @@ Here are some ideas to get you started: -->
 <p><a href="https://www.linkedin.com/in/le-jared/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
 </p>
 
-## Stats
+## SMost-Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Jared)](https://github.com/Le-Jared/github-readme-stats)
