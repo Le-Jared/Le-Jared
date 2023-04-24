@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about anything, I love to learn from people's experiences
 
--  Life Hack: Learn to enjoy what you are doing 
+- 🌱 Life Hack: Learn to enjoy what you are doing 
 
 - ⚡ Fun fact: I enjoy diving 🤿 and reading 📖
 
