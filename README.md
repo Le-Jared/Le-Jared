@@ -11,17 +11,13 @@ Here are some ideas to get you started: -->
 
  <br/>
 
-## 👨🏻‍💻 About Me:
+## About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ My first project: **[My Website](https://le-jared.github.io/Responsive-Portfolio/)**
-
 - 🔭 I’m currently working on `Upskilling Myself`.
 
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👨🏻‍💻 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m looking for help with `Getting a job` 😅
 
@@ -31,7 +27,7 @@ Here are some ideas to get you started: -->
 
 - ⚡ Fun fact: I enjoy diving 🤿 and reading 📖
 
-## 🛠️ Technologies and Tools I use:
+## Technologies and Tools I use:
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -56,7 +52,7 @@ Here are some ideas to get you started: -->
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-## ❤️ Let's get connected:
+## Let's get connected:
 
 <p><a href="https://www.linkedin.com/in/le-jared/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
 </p>
