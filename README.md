@@ -59,3 +59,6 @@ Here are some ideas to get you started: -->
 
 ## Most-Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Jared)](https://github.com/Le-Jared/github-readme-stats)
+  
+## Profile Views
+ <img src="https://komarev.com/ghpvc/?username=Le-Jared&style=flat-square&color=blue" alt=""/>
