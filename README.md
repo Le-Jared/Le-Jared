@@ -39,7 +39,9 @@ Here are some ideas to get you started: -->
 <p><a href="https://www.linkedin.com/in/le-jared/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
 </p>
 
-## Most-Used Languages
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Jared)](https://github.com/Le-Jared/github-readme-stats)
+## Statistics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adelyntay&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelyntay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
