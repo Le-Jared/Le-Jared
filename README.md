@@ -30,11 +30,6 @@ Here are some ideas to get you started: -->
 ## Technologies and Tools I use:
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
-
-## My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
@@ -49,5 +44,6 @@ Here are some ideas to get you started: -->
 </p>
 
 ## Most-Used Languages
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Jared)](https://github.com/Le-Jared/github-readme-stats)
 
