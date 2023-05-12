@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 - 👨🏻‍💻 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Getting a job` 😅
+- 🤔 I’m looking for help with `Learning Java` 😅
 
 - 💬 Ask me about anything, I love to learn from people's experiences
 
