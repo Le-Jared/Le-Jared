@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I enjoy diving 🤿 and reading 📖
 
 ## Technologies and Tools I use:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,discord,bots,django,docker,express,fastapi,figma,flask,firebase,gcp,git,github,gitlab,heroku,html,js,jquery,kubernetes,linux,materialui,matlab,mongodb,mysql,netlify,nodejs,postgres,powershell,py,r,react,regex,sass,sqlite,tailwind,vscode,vite" />
   </a>
