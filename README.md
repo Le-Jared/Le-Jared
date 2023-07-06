@@ -15,11 +15,11 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `Upskilling Myself`.
+- 🔭 I’m currently working on `Upskilling and building bots`.
 
-- 👨🏻‍💻 I’m looking to collaborate for `Dev Projects`
+- 👨🏻‍💻 I’m looking to collaborate in `Building bots`
 
-- 🤔 I’m looking for help with `Learning Java` 😅
+- 🤔 I’m looking for help with `Contributing to BotHub` 
 
 - 💬 Ask me about anything, I love to learn from people's experiences
 
