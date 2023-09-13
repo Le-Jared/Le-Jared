@@ -19,8 +19,6 @@ Here are some ideas to get you started: -->
 
 - 👨🏻‍💻 I’m looking to collaborate in `Building bots`
 
-- 🤔 I’m looking for help with `Contributing to BotHub` 
-
 - 💬 Ask me about anything, I love to learn from people's experiences
 
 - 🌱 Life Hack: Learn to enjoy what you are doing 
