@@ -37,8 +37,16 @@ Here are some ideas to get you started: -->
 <p><a href="https://www.linkedin.com/in/le-jared/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
 </p>
 
+## 🚀 Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/your-repo/pull/123) in [your-repo]
+2. 💪 Opened PR [#456](https://github.com/another-repo/pull/456) in [another-repo]
+3. ❗️ Closed issue [#789](https://github.com/some-repo/issues/789) in [some-repo]
+<!--END_SECTION:activity-->
+
+
 ## Statistics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Le-Jared&theme=default)](https://git.io/streak-stats)
+![Jared's github activity graph](https://activity-graph.herokuapp.com/graph?username=Le-Jared&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Jared&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
