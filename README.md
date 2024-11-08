@@ -15,15 +15,15 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `Upskilling and building bots`.
+- 🔭 I’m an agile learner who started in Finance and transitioned to Software Engineering
 
-- 👨🏻‍💻 I’m looking to collaborate in `Building bots`
+- 👨🏻‍💻 I’m looking to put my unique blend of skills to use
 
-- 💬 Ask me about anything, I love to learn from people's experiences
+- 💬 Share with me about anything, I love to learn from people's experiences
 
-- 🌱 Life Hack: Learn to enjoy what you are doing 
+- 🌱 Love learning and experimenting on new projects
 
-- ⚡ Fun fact: I enjoy diving 🤿 and reading 📖
+- ⚡ I enjoy diving 🤿 and reading 📖
 
 ## Technologies and Tools I use:
 <p align="left">
