@@ -15,11 +15,9 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m an agile learner who started in Finance and transitioned to Software Engineering
+- 🔭 I’m an agile learner who started in Finance and transitioned to Software Engineering and now doing both
 
 - 👨🏻‍💻 I’m looking to put my unique blend of skills to use
-
-- 💬 Share with me about anything, I love to learn from people's experiences
 
 - 🌱 Love learning and experimenting on new projects
 
