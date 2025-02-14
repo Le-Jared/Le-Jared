@@ -15,13 +15,13 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m an agile learner who started in Finance and transitioned to Software Engineering and now doing both
+- 🔭 I’m a quick and curious learner who started in Finance and transitioned to Software Engineering. Now I'm doing both!
 
-- 👨🏻‍💻 I’m looking to put my unique blend of skills to use
+- 👨🏻‍💻 Having experience in both worlds, I’m looking to put my unique blend of skills to work
 
-- 🌱 Love learning and experimenting on new projects
+- 🌱 I'm innovative and experimenting on new projects
 
-- ⚡ I enjoy diving 🤿 and reading 📖
+- ⚡ I enjoy diving 🤿 and reading 📖 when I'm not touching code
 
 ## Technologies and Tools I use:
 <p align="left">
