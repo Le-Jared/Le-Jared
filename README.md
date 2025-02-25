@@ -45,8 +45,6 @@ Here are some ideas to get you started: -->
 <img src="https://komarev.com/ghpvc/?username=Le-Jared&&style=flat-square" align="center" />
 
 
-<img align="center" src="https://wakatime.com/share/@Le-Jared/0fbfd90e-17b1-4494-8550-c4fa49a51977.svg"/>
-
 
 
 
