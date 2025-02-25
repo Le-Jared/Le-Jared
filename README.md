@@ -42,8 +42,10 @@ Here are some ideas to get you started: -->
 
 ![](https://github-profile-trophy.vercel.app/?username=le-jared&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://komarev.com/ghpvc/?username=gregoryfoo95&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Le-Jared&&style=flat-square" align="center" />
 
+
+<img align="center" src="https://wakatime.com/share/@Le-Jared/0fbfd90e-17b1-4494-8550-c4fa49a51977.svg"/>
 
 
 
