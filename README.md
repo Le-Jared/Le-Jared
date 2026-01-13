@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 
 ## Languages and Tools:
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,c++,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=9" />
+ <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=9" />
 </p>
 <hr>
 
