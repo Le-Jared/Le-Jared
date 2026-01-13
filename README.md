@@ -30,14 +30,6 @@ Here are some ideas to get you started: -->
 </p>
 
 
-## Github Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Jared&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-profile-trophy.vercel.app/?username=le-jared&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-<img src="https://komarev.com/ghpvc/?username=Le-Jared&&style=flat-square" align="center" />
-
 
 
 
