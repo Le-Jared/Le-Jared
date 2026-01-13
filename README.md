@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 ## Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,powershell,postgres,selenium,solidity,spring,bootstrap,azure,angular,python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,powershell,postgres,selenium,solidity,spring,bootstrap,azure,angular,python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=16" />
   </a>
 </p>
 
