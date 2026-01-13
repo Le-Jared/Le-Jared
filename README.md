@@ -19,9 +19,7 @@ Here are some ideas to get you started: -->
 
 - 👨🏻‍💻 Having experience in both worlds, I’m looking to put my unique blend of skills to work
 
-- 🌱 I'm innovative and experimenting on new projects
-
-- ⚡ I enjoy diving 🤿 and reading 📖 when I'm not touching code
+- 🌱 I'm constantly challenging myself to build new things
 
 ## Languages and Tools:
 <p align="center">
