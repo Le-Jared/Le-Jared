@@ -24,10 +24,7 @@ Here are some ideas to get you started: -->
 - ⚡ I enjoy diving 🤿 and reading 📖 when I'm not touching code
 
 ## Languages and Tools:
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=9" />
-</p>
-<hr>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,linux,powershell,postgres,selenium,solidity,spring,bootstrap,azure,angular,python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=9" />
 
 
 ## Let's get connected:
