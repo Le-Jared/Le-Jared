@@ -23,12 +23,6 @@ Here are some ideas to get you started: -->
 
 - ⚡ I enjoy diving 🤿 and reading 📖 when I'm not touching code
 
-## Technologies and Tools I use:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,discord,bots,bash,django,docker,express,fastapi,figma,flask,firebase,git,github,gitlab,heroku,html,java,js,jquery,linux,materialui,matlab,mongodb,mysql,netlify,nodejs,postgres,powershell,py,r,react,regex,sass,sqlite,tailwind,vscode,vit, c++" />
-  </a>
-</p>
 
 ## Let's get connected:
 
