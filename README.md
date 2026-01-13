@@ -24,8 +24,11 @@ Here are some ideas to get you started: -->
 - ⚡ I enjoy diving 🤿 and reading 📖 when I'm not touching code
 
 ## Languages and Tools:
-<img src="https://skillicons.dev/icons?i=docker,fastapi,linux,powershell,postgres,selenium,solidity,spring,bootstrap,azure,angular,python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=9" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,powershell,postgres,selenium,solidity,spring,bootstrap,azure,angular,python,java,js,ts,go,html,css,git,postman,vscode,vite,react,tailwind,nodejs,express,postgres,mongodb,npm,vercel,figma&perline=12" />
+  </a>
+</p>
 
 ## Let's get connected:
 
